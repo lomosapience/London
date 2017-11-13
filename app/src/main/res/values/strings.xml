@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">London</string>
+    <string name="london">Welcome to London!</string>
+    <string name="info_button_text">GET MORE INFO!</string>
+    <string name="founded_text">Founded:</string>
+    <string name="info_founded_text">50 AD</string>
+    <string name="population_text">Population:</string>
+    <string name="info_population_text">8.788 million</string>
+    <string name="details_text">Details:</string>
+    <string name="info_details_text">London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times.</string>
+</resources>
